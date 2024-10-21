@@ -1,4 +1,4 @@
-package com.unionclass.gateway.common.exception;
+package com.andrea.gateway.common.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

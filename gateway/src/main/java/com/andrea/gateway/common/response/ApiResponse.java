@@ -1,4 +1,4 @@
-package com.unionclass.gateway.common.response;
+package com.andrea.gateway.common.response;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import lombok.AllArgsConstructor;
